@@ -1,0 +1,40 @@
+.style{
+    width: 600px;
+    box-shadow: 0 0 10px black;
+    padding: 30px;
+    margin:150px auto;
+    text-align: center;
+    display: flex;
+    justify-content:space-evenly;
+     background-color: black;
+     color: white;
+}
+
+input{
+    width: 200px;
+    height: 30px; 
+}
+span{
+    color:red;
+}
+.email{
+    margin-top: 20px;
+}
+.password{
+    margin-top: 10px;
+}
+
+p{
+    margin-right: 150px;
+}
+h5{
+    margin-left: 100px;
+}
+.button{
+    
+    
+    margin-top: 20px;
+}
+h4{
+    margin-top: 20px;
+}
